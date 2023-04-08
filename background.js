@@ -1,5 +1,5 @@
 chrome.action.onClicked.addListener(() => {
   chrome.tabs.create({
-      url: "https://www.moviecat.azurewebsites.net",
+      url: "https://moviecat.azurewebsites.net/",
   });
 });
