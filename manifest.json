@@ -9,7 +9,7 @@
     "256": "icons/icon-256x256.png"
   },
   "action": {
-    "default_title": "Click to show an alert"
+    "default_title": "Click to open MovieCat."
   },
   "permissions": [
     "tabs"
